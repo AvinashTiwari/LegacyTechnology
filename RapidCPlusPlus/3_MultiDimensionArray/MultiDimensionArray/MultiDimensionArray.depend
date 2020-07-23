@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1595546547 source:e:\legacytechnology\rapidcplusplus\3_multidimensionarray\multidimensionarray\main.cpp
+	<iostream>
+
+1595546741 source:e:\legacytechnology\rapidcplusplus\3_multidimensionarray\multidimensionarray\multidimarray.cpp
+	<iostream>
+
